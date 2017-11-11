@@ -2,7 +2,7 @@
     "room":                     "Mineplex Official",
     "author":                   "baseballboyg/Gavin",
     "icon":                     "http://i.imgur.com/2kP7fTA.png",
-    "css":                      "https://www.dropbox.com/s/q68chcqn5yhcnao/Mineplex.css",
+    "css":                      "https://rawgit.com/baseballboyg/MineplexFinal/master/Mineplex.json",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
